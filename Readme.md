@@ -8,8 +8,8 @@ Follow the steps below to get started with the project:
 
 ### 1. Clone the repository
 
-git clone <repository-url>
-cd <project-directory>
+git clone repository-url
+cd project-directory
 
 ### 2. Create a .env file
 
