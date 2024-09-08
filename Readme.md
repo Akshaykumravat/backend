@@ -8,11 +8,11 @@ Follow the steps below to get started with the project:
 
 ### 1. Clone the repository
 
-```bash
 git clone <repository-url>
 cd <project-directory>
 
 ### 2. Create a .env file
+
 In the root directory of the project, create a .env file.
 Copy the content from .env.sample and paste it into the .env file.
 
